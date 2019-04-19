@@ -1,4 +1,4 @@
-****各位如果按照下面的流程完成了安装，请在本地修改此文本，在最后附上自己的名字*****
+﻿****各位如果按照下面的流程完成了安装，请在本地修改此文本，在最后附上自己的名字*****
 
 ****git版本控制方案
 需要安装：git  /github desktop （用于简化使用git）
@@ -13,4 +13,5 @@ github desktop 使用教程：https://www.jianshu.com/p/06a960d991aa
 解决方案：推荐使用支持utf-8编码的notepad++文本编辑器来进行编辑文本
 
 test member:
-LabmemNo004:谭忠煜
+LabmenNo004:谭忠煜
+LabmenNo001:李一凡
